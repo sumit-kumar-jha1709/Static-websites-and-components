@@ -4,4 +4,8 @@ This repository contains a number of Static websites and components that can be 
 
 Live Demo: - 
 
-Cafe Menu- [Live Demo](https://cafe-menu-sumit.netlify.app/)
+Cafe Menu - [Live Demo](https://cafe-menu-sumit.netlify.app/)
+
+CSS Color Markers - [Live Demo](https://css-colour-markers-sumit.netlify.app/)
+
+Registration From - [Live Demo](https://registration-form-sumit.netlify.app/)
